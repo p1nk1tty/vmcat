@@ -1,6 +1,6 @@
 # vmcat
 
-Miniture VM implemented with a stack
+Miniature VM implemented with a stack
 
 # Usage
 
